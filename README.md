@@ -33,4 +33,5 @@ The Global Ticket project is an ASP.NET Core application designed to manage and 
 5. Run the application: `dotnet run`
 
 ## Contributing
-I welcome contributions! This is a side project for learning purposes only.
+This is a side project for learning purposes only. 
+This project not finished yet I welcome contributions!
