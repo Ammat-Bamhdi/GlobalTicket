@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5LcANEEB8xnuSaMXqoMzeyOKIXD8JttxGChYKUiAWsI=",
+  "Source": "GlobalTicket.Api",
+  "BasePath": "_content/GlobalTicket.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

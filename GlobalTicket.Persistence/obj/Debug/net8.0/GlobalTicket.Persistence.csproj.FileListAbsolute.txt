@@ -1,0 +1,17 @@
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\bin\Debug\net8.0\GlobalTicket.Persistence.deps.json
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\bin\Debug\net8.0\GlobalTicket.Persistence.dll
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\bin\Debug\net8.0\GlobalTicket.Persistence.pdb
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\bin\Debug\net8.0\GlobalTicket.Application.dll
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\bin\Debug\net8.0\GloboTicket.Domain.dll
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\bin\Debug\net8.0\GlobalTicket.Application.pdb
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\bin\Debug\net8.0\GloboTicket.Domain.pdb
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\obj\Debug\net8.0\GlobalTicket.Persistence.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\obj\Debug\net8.0\GlobalTicket.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\obj\Debug\net8.0\GlobalTicket.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\obj\Debug\net8.0\GlobalTicket.Persistence.AssemblyInfo.cs
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\obj\Debug\net8.0\GlobalTicket.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\obj\Debug\net8.0\GlobalTi.8A088174.Up2Date
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\obj\Debug\net8.0\GlobalTicket.Persistence.dll
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\obj\Debug\net8.0\refint\GlobalTicket.Persistence.dll
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\obj\Debug\net8.0\GlobalTicket.Persistence.pdb
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Persistence\obj\Debug\net8.0\ref\GlobalTicket.Persistence.dll

@@ -1,0 +1,11 @@
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\bin\Debug\net8.0\GloboTicket.Domain.deps.json
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\bin\Debug\net8.0\GloboTicket.Domain.dll
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\bin\Debug\net8.0\GloboTicket.Domain.pdb
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\obj\Debug\net8.0\GlobalTicket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\obj\Debug\net8.0\GlobalTicket.Domain.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\obj\Debug\net8.0\GlobalTicket.Domain.AssemblyInfo.cs
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\obj\Debug\net8.0\GlobalTicket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\obj\Debug\net8.0\GloboTicket.Domain.dll
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\obj\Debug\net8.0\refint\GloboTicket.Domain.dll
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\obj\Debug\net8.0\GloboTicket.Domain.pdb
+C:\Users\user\RiderProjects\GlobalTicket\GlobalTicket.Domain\obj\Debug\net8.0\ref\GloboTicket.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GlobalTicket.Api.props" />
+</Project>
